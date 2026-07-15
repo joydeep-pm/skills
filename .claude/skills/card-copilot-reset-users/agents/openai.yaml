@@ -1,0 +1,4 @@
+interface:
+  display_name: "Card Co-Pilot Reset Users"
+  short_description: "Reset Card Co-Pilot users"
+  default_prompt: "Reset Card Co-Pilot user state for fresh onboarding: clear app data on connected Android device (fallback uninstall/reinstall), relaunch app, and optionally remove remote Supabase users when service-role credentials are available."

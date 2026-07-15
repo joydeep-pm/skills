@@ -1,0 +1,23 @@
+Direction name: Clean geometric minimal
+Style intent: Minimal, modern, geometric symbol
+Primary motifs: precision, signal, alignment
+Palette direction: neutral base with one restrained accent
+Composition: centered icon mark, square-safe, transparent background
+Favicon constraints: readable at 16x16 and 32x32 with clean silhouette
+Negative constraints: no text, no watermark, no mockup background, no trademark imitation, no intricate gradients
+---
+Direction name: Bold expressive symbol
+Style intent: Confident, high-contrast, iconic mark
+Primary motifs: motion, guidance, momentum
+Palette direction: dark neutral plus warm accent
+Composition: single bold emblem, high edge clarity, transparent background
+Favicon constraints: maintain recognizability at 16x16 and 32x32
+Negative constraints: no text, no watermark, no brand mimicry, no photoreal textures
+---
+Direction name: Abstract monogram-like emblem
+Style intent: Abstract symbolic shape with premium restraint
+Primary motifs: abstraction, structure, trust
+Palette direction: monochrome first, optional subtle accent
+Composition: compact mark, centered, vector-like clarity, transparent background
+Favicon constraints: silhouette-first design, no tiny details
+Negative constraints: no text, no watermark, no trademark imitation, no noisy effects

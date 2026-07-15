@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Exit Review"
+  short_description: "Run end-of-plan implementation reviews"
+  default_prompt: "Perform a plan-exit review for this work and report findings, verification evidence, and release readiness."
