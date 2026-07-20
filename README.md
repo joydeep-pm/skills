@@ -16,6 +16,7 @@ by hand after cloning into your own project.
 
 **Writing & prompting**
 - **48** - Turn a rough idea into a finished, ready-to-send prompt optimized for Opus 4.8 in the chat app.
+- **opus48-optimizer** - Turn a raw prompt into a precise, XML-structured prompt via a hard `prompt:` prefix trigger; API/XML-oriented workflow ported from CheswickDEV/claude-opus-4.8-prompt-optimizer.
 - **fable-prompter** - Default prompt-optimization skill for Claude Fable 5 in chat/Cowork.
 - **prompt-master** - Restructure messy, rambling requests into a clean task spec before executing.
 - **joy-writing-voice** - Apply a personal voice profile to writing, rewriting, and ghostwriting tasks.
